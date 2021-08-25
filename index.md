@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Heather's Portfolio
 
 You can use the [editor on GitHub](https://github.com/Heatchen9598/2022Portfollio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
