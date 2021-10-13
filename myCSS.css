@@ -5,7 +5,7 @@ body {
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 }
 .homePage {
-	background: #FFFDEA;
+	background: #FEECFF;
 }
 .container {
 	width: 100%;
@@ -38,7 +38,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #FEF3DE;
+	background: #FFDFFE;
 	margin: 0px;
 	float: left;
 	width: 100%;
