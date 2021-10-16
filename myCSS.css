@@ -7,7 +7,6 @@ body {
 	color: #EBA2FF;
         text-align: center;
         text-shadow: -2px 2px #7AA4DE;
-        text-decoration: line-through;
         letter-spacing: 5px;
         font-weight: bolder;
 }
@@ -61,7 +60,7 @@ a:link {
 a:visited {
      color: #F5CEB4;
      text-align: center;
-     text-shadow: -1px 1px #F5CEB4;
+     text-shadow: -1px 1px #FCF5DA;
      text-decoration: overline;
 }
 a:hover, a:active, a:focus { 
