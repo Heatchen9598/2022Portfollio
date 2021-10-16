@@ -2,7 +2,8 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
-	font: 100%/1.4 Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif
+	font: 100%/1.4 Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+	font-family: fantasy;
 }
 .homePage {
 	background: #FEECFF;
@@ -46,10 +47,10 @@ body {
 	text-align: center;
 }
 a:link {
-     color: #000000;
+     color: #B1A8FF;
 }
 a:visited {
-     color: #000;
+     color: #F5F4A7;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
