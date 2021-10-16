@@ -68,3 +68,22 @@ a:hover, a:active, a:focus {
      letter-spacing: 2px;
      font-weight: bold;
 }
+h1{
+     font: 100%/1.4 Andale Mono, monospace;
+     font-family: fantasy;
+     color: #EBA2FF;
+     text-align: center;
+     text-shadow: -2px 2px #EBA2FF;
+     text-decoration: underline;
+     letter-spacing: 5px;
+     font-weight: bolder;
+	
+}
+h2{
+     font: 100%/1.4 Andale Mono, monospace;
+     font-family: fantasy;
+     color: #F5BDD1;
+     text-align: center;
+     text-shadow: -1px 1px #F5BDD1;
+     letter-spacing: 2px;
+}
