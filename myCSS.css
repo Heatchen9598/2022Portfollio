@@ -2,8 +2,14 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
-	font: 100%/1.4 Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+	font: 100%/1.4 Andale Mono, monospace;
 	font-family: fantasy;
+	color: #EBA2FF;
+        text-align: center;
+        text-shadow: -2px 2px #EBA2FF;
+        text-decoration: underline;
+        letter-spacing: 5px;
+        font-weight: bolder;
 }
 .homePage {
 	background: #FEECFF;
@@ -47,11 +53,18 @@ body {
 	text-align: center;
 }
 a:link {
-     color: #B1A8FF;
+     color: #F5BDD1;
+     text-align: center;
+     text-shadow: -1px 1px #F5BDD1;
 }
 a:visited {
-     color: #F5F4A7;
+     color: #F5CEB4;
+     text-align: center;
+     text-shadow: -1px 1px #F5CEB4;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
+     text-shadow: -2px 2px #F694F0;
+     letter-spacing: 2px;
+     font-weight: bold;
 }
