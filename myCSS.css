@@ -6,7 +6,7 @@ body {
 	font-family: fantasy;
 	color: #EBA2FF;
         text-align: center;
-        text-shadow: -2px 2px #EBA2FF;
+        text-shadow: -2px 2px #7AA4DE;
         text-decoration: line-through;
         letter-spacing: 5px;
         font-weight: bolder;
@@ -55,7 +55,7 @@ body {
 a:link {
      color: #F5BDD1;
      text-align: center;
-     text-shadow: -1px 1px #F5BDD1;
+     text-shadow: -1px 1px #F694F0;
      text-decoration: overline;
 }
 a:visited {
@@ -69,22 +69,3 @@ a:hover, a:active, a:focus {
      text-shadow: -2px 2px #F694F0;
      letter-spacing: 2px;
      font-weight: bold;
-h1{
-     font: 100%/1.4 monospace;
-     font-family: cursive;
-     color: #EBA2FF;
-     text-align: center;
-     text-shadow: -2px 2px #EBA2FF;
-     text-decoration: underline;
-     letter-spacing: 5px;
-     font-weight: bolder;
-	
-}
-h2{
-     font: 100%/1.4 monospace;
-     font-family: cursive;
-     color: #F5BDD1;
-     text-align: center;
-     text-shadow: -1px 1px #F5BDD1;
-     letter-spacing: 2px;
-}
