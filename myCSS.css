@@ -2,14 +2,15 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
-	font: 100%/1.4 Andale Mono, monospace;
+	font: 100%/1.4 monospace;
 	font-family: fantasy;
 	color: #EBA2FF;
         text-align: center;
         text-shadow: -2px 2px #EBA2FF;
-        text-decoration: underline;
+        text-decoration: line-through;
         letter-spacing: 5px;
         font-weight: bolder;
+	font-size: 32px
 }
 .homePage {
 	background: #FEECFF;
@@ -56,21 +57,22 @@ a:link {
      color: #F5BDD1;
      text-align: center;
      text-shadow: -1px 1px #F5BDD1;
+     text-decoration: overline;
 }
 a:visited {
      color: #F5CEB4;
      text-align: center;
      text-shadow: -1px 1px #F5CEB4;
+     text-decoration: overline;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
      text-shadow: -2px 2px #F694F0;
      letter-spacing: 2px;
      font-weight: bold;
-}
 h1{
-     font: 100%/1.4 Andale Mono, monospace;
-     font-family: fantasy;
+     font: 100%/1.4 monospace;
+     font-family: cursive;
      color: #EBA2FF;
      text-align: center;
      text-shadow: -2px 2px #EBA2FF;
@@ -80,8 +82,8 @@ h1{
 	
 }
 h2{
-     font: 100%/1.4 Andale Mono, monospace;
-     font-family: fantasy;
+     font: 100%/1.4 monospace;
+     font-family: cursive;
      color: #F5BDD1;
      text-align: center;
      text-shadow: -1px 1px #F5BDD1;
