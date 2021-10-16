@@ -60,12 +60,12 @@ a:link {
 a:visited {
      color: #F5CEB4;
      text-align: center;
-     text-shadow: -1px 1px #FCF5DA;
+     text-shadow: -1px 1px #FFFAE4;
      text-decoration: overline;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
-     text-shadow: -2px 2px #F694F0;
+     text-shadow: -2px 2px #FFFAE4;
      letter-spacing: 2px;
      font-weight: bold;
 }
